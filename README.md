@@ -7,5 +7,8 @@
 ![iMemento's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iMemento&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imemento&theme=onedark&show_icons=true)
+
+
 
 
