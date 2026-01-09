@@ -21,7 +21,7 @@
 
 ## 🧰 Tech Stack
 
-- **Languages:** C#, C++, Objective-C, JavaScript, HLSL  
+- **Languages:** C#, Objective-C, HLSL  
 - **Engines & Tools:** Unity, URP, Git, Xcode, iOS Native Plugins
 
 ---
