@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="180" src="https://github.com/iMemento.png" alt="iMemento Avatar" />
+  <img width="100" src="https://github.com/iMemento.png" alt="iMemento Avatar" />
 </p>
 
 <h1 align="center">Hi, I'm peakcoder 👋</h1>
