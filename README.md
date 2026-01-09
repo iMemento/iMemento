@@ -29,7 +29,8 @@
 ## 🔗 Links
 
 - 🌐 https://peakcoder.com  
-- 📦 https://github.com/iMemento
+- 📦 https://langlangshanwai.com
+- 🛠  https://shadertoy.peakcoder.com (shadertoy 中文教程)
 
 ---
 
