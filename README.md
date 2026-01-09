@@ -32,7 +32,7 @@
 - 📦 [https://langlangshanwai.com](https://shadertoy.peakcoder.com)  
 - 📦 [https://shadertoy.peakcoder.com](https://shadertoy.peakcoder.com) (Shadertoy 中文教程)  
 - 📌 [peakcoder](https://www.xiaohongshu.com/user/profile/640d5a4f000000001002bedf?xhsshare=CopyLink&appuid=640d5a4f000000001002bedf&apptime=1713848697) (小红书)
-- 📪 [zaijing@alu.hit.edu.cn](mailto:zaijing@alu.hit.edu.cn)    
+- 📮 [zaijing@alu.hit.edu.cn](mailto:zaijing@alu.hit.edu.cn)    
 
 ---
 
