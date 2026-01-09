@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <p align="center">
   <img width="180" src="https://github.com/iMemento.png" alt="iMemento Avatar" />
 </p>
