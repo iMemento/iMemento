@@ -30,7 +30,7 @@
 
 - 🌐 https://peakcoder.com  
 - 📦 https://langlangshanwai.com
-- 🛠  https://shadertoy.peakcoder.com (shadertoy 中文教程)
+- 🛠  https://shadertoy.peakcoder.com (Shadertoy 中文教程)
 
 ---
 
