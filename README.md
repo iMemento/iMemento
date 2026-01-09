@@ -2,7 +2,7 @@
   <img width="180" src="https://github.com/iMemento.png" alt="iMemento Avatar" />
 </p>
 
-<h1 align="center">Hi, I'm iMemento 👋</h1>
+<h1 align="center">Hi, I'm PeakCoder 👋</h1>
 
 <p align="center">
   Unity Developer · Graphics & Tools · Indie Maker  
